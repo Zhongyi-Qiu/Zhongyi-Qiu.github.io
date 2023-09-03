@@ -3,20 +3,11 @@ layout: homepage
 ---
 
 ## About Me
-My name is Zhongyi Qiu, and I am a master's student in Mechanical Engineering at <a href="https://www.buaa.edu.cn/" target="_blank"> Beihang University </a> in China. Under the mentorship of Prof.  -->
-working under the mentorship of Prof.<a href="https://shi.buaa.edu.cn/liuxiaochao/en/index.htm" target="_blank"> Xiaochao Liu</a>. I will be graduating in January 2024. I am looking for a PhD position in nonlinear data-driven control.
-<!-- 
-I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_blank"> Open Case Study Project</a> at <a href="https://www.jhsph.edu/" target="_blank"> the Bloomberg School of Public Health </a> of <a href="https://www.jhu.edu/" target="_blank"> the Johns Hopkins University</a>. -->
-
-Outside of academia, I began my journey as a professional swimmer at the age of 5 and went on to achieve several regional and national championships. I'm also passionate about Chinese calligraphy, and my artwork has been exhibited in top galleries and museums including the <a href="http://www.namoc.org/" target="_blank"> National Art Museum of China (Beijing)</a>. In addition, I am also interested in oil painting, and aeromodelling.
-
+My name is Zhongyi Qiu, and I am a master's student in Mechanical Engineering at <a href="https://www.buaa.edu.cn/" target="_blank"> Beihang University </a> in China. My research interest includes Electro-hydraulic servo system nonlinear control and Nonlinear data drive control. I am very fortunate to be advised by Prof.<a href="https://shi.buaa.edu.cn/liuxiaochao/en/index.htm" target="_blank"> Xiaochao Liu</a>. I will be graduating in January 2024. I am looking for a PhD position in nonlinear data-driven control.
 
 ## Research Interests
-- **Manifold Learning:** positive semi-definite manifolds learning
-- **Machine Learning:** fairness AI, penalization and augmentation methods
-- **Functional Data Analysis:** functional regression, and clustering methods
-- **High-Dimensional Statistics:** matrix-valued regression and clustering, positive semi-definite matrices estimations
-
+- **Electro-hydraulic servo system nonlinear control:** adaptive robust control, active disturbance rejection control
+- **Machine Learning:** machine Learning, safe reinforcement learning
 
 <!-- {% include_relative _includes/publications.md %} -->
 
