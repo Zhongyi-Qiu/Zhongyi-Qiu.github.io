@@ -9,15 +9,8 @@ My name is Zhongyi Qiu, and I am a master's student in Mechanical Engineering at
 - **Electro-hydraulic servo system nonlinear control:** adaptive robust control, active disturbance rejection control
 - **Machine learning:** supervised learning, safe reinforcement learning
 
-<!-- {% include_relative _includes/publications.md %} -->
-
 {% include_relative _includes/projects.md %}
-
-<!-- {% include_relative _includes/talks.md %} -->
 
 ## Awards
 - **[November. 2019]** President’s Scholarship (top 1%)
-
-<!-- {% include_relative _includes/services.md %} -->
-
 
