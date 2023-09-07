@@ -7,7 +7,7 @@ position: Master's student
 # subposition: Chair of the Chinese Student and Scholar Association (CSSA)
 # subposition_link: https://nyu-medicine-cssa.github.io
 affiliation: Beihang University
-subaffiliation: College of Automation Science and Electrical Engineering
+subaffiliation: School of Automation Science and Electrical Engineering
 affiliation_link: https://www.buaa.edu.cn/
 subaffiliation_link: https://dept3.buaa.edu.cn/
 email: qiuzhongyi@buaa.edu.cn
@@ -24,11 +24,11 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=bePCCD8AAAAJ&hl=en
-cv_link: assets/files/HanchaoZhangCV.pdf
-github_link: https://github.com/Hanchao-Zhang
-linkedin: https://www.linkedin.com/in/hanchao-ted-zhang-670105b7/?locale=en_US
-twitter: https://twitter.com/tedddddy_zhang
+google_scholar: https://scholar.google.com.hk/citations?user=73W5tycAAAAJ&hl=en
+cv_link: assets/files/CV Zhongyi.Qiu.pdf
+github_link: https://github.com/Zhongyi-Qiu
+linkedin: 
+twitter: 
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
@@ -43,7 +43,7 @@ enable_footnote: false
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
+# google_analytics: UA-111540567-4
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
