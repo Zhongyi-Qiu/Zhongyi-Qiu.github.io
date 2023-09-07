@@ -13,7 +13,7 @@ My name is Zhongyi Qiu, and I am a master's student in Mechanical Engineering at
 
 {% include_relative _includes/projects.md %}
 
-{% include_relative _includes/talks.md %}
+<!-- {% include_relative _includes/talks.md %} -->
 
 
 
