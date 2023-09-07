@@ -34,6 +34,6 @@ My name is Zhongyi Qiu, and I am a master's student in Mechanical Engineering at
 ## Awards
 - **[November. 2019]** President’s Scholarship (top 1%)
 
-{% include_relative _includes/services.md %}
+<!--{% include_relative _includes/services.md %}-->
 
 
